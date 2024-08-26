@@ -1,0 +1,52 @@
+.title{
+    font-family: 'Rockwell','Courier New', Courier, monospace;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.largebox {
+    width: 56%;
+    height: 450px;
+    margin: 10px 0 0 22%;
+    display: flex;
+}
+
+.left {
+    height: 400px;
+    width: 70%;
+    margin: 25px 0 0 2%;
+}
+
+.right {
+    width: 26%;
+    height: 400px;
+    margin: 25px 0 0 10px;
+}
+
+.right img, .left img {
+    box-shadow: 0 0 10px #000000;
+}
+
+.content {
+    margin: 10px 0 0 12%;
+}
+
+.content p {
+    margin-top: 10px;
+    background-color: #131842;
+    width: 90%;
+    color: whitesmoke;
+    padding: 3px 0px 3px 5px;
+    font-family: 'Rockwell','Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.content div{
+    background-color: #ECCEAE;
+    width: 90%;
+    padding: 10px 0px 10px 0px;
+    font-family: 'Rockwell','Courier New', Courier, monospace;
+    font-size: 20px;
+}
